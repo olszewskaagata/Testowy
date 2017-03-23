@@ -1,0 +1,3 @@
+C:/Users/Ozi/Desktop/MGR/III_semestr/PW/lab2/Testowy/CMakeFiles/Laborka.dir
+C:/Users/Ozi/Desktop/MGR/III_semestr/PW/lab2/Testowy/CMakeFiles/ALL_BUILD.dir
+C:/Users/Ozi/Desktop/MGR/III_semestr/PW/lab2/Testowy/CMakeFiles/ZERO_CHECK.dir
